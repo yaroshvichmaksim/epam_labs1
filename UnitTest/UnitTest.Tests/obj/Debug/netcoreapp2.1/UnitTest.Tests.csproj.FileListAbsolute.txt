@@ -1,0 +1,17 @@
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\bin\Debug\netcoreapp2.1\UnitTest.Tests.deps.json
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\bin\Debug\netcoreapp2.1\UnitTest.Tests.runtimeconfig.json
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\bin\Debug\netcoreapp2.1\UnitTest.Tests.runtimeconfig.dev.json
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\bin\Debug\netcoreapp2.1\UnitTest.Tests.dll
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\bin\Debug\netcoreapp2.1\UnitTest.Tests.pdb
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\bin\Debug\netcoreapp2.1\UnitTest.dll
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\bin\Debug\netcoreapp2.1\UnitTest.pdb
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\obj\Debug\netcoreapp2.1\UnitTest.Tests.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\obj\Debug\netcoreapp2.1\UnitTest.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\obj\Debug\netcoreapp2.1\UnitTest.Tests.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\obj\Debug\netcoreapp2.1\UnitTest.Tests.AssemblyInfo.cs
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\obj\Debug\netcoreapp2.1\UnitTest.Tests.csproj.CopyComplete
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\obj\Debug\netcoreapp2.1\UnitTest.Tests.dll
+C:\Users\Админ\Desktop\UnitTest\UnitTest.Tests\obj\Debug\netcoreapp2.1\UnitTest.Tests.pdb

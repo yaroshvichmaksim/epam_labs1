@@ -1,0 +1,6 @@
+C:\Users\Админ\Desktop\UnitTest\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Админ\Desktop\UnitTest\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Админ\Desktop\UnitTest\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\UnitTest\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Админ\Desktop\UnitTest\UnitTest\obj\Debug\UnitTest.pdb
