@@ -3,3 +3,5 @@
 /target
 /bin
 db.lock
+.suo
+.dtbcache
