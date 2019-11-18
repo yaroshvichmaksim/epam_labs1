@@ -4,3 +4,9 @@ C:\Users\Админ\Desktop\UnitTest\UnitTest\obj\Debug\UnitTest.csprojAssemblyR
 C:\Users\Админ\Desktop\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
 C:\Users\Админ\Desktop\UnitTest\UnitTest\obj\Debug\UnitTest.dll
 C:\Users\Админ\Desktop\UnitTest\UnitTest\obj\Debug\UnitTest.pdb
+D:\project\epam_labs1\UnitTest\UnitTest\bin\Debug\UnitTest.dll
+D:\project\epam_labs1\UnitTest\UnitTest\bin\Debug\UnitTest.pdb
+D:\project\epam_labs1\UnitTest\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+D:\project\epam_labs1\UnitTest\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\project\epam_labs1\UnitTest\UnitTest\obj\Debug\UnitTest.dll
+D:\project\epam_labs1\UnitTest\UnitTest\obj\Debug\UnitTest.pdb

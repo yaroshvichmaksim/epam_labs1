@@ -1,0 +1,13 @@
+D:\Myrki\EpamLabs\Epam_Lab4_CleanCode\Net\AircompanyTests\obj\Debug\AircompanyTests.csprojAssemblyReference.cache
+D:\Myrki\EpamLabs\Epam_Lab4_CleanCode\Net\AircompanyTests\obj\Debug\AircompanyTests.csproj.CoreCompileInputs.cache
+D:\Myrki\EpamLabs\Epam_Lab4_CleanCode\Net\AircompanyTests\bin\Debug\AircompanyTests.dll
+D:\Myrki\EpamLabs\Epam_Lab4_CleanCode\Net\AircompanyTests\bin\Debug\AircompanyTests.pdb
+D:\Myrki\EpamLabs\Epam_Lab4_CleanCode\Net\AircompanyTests\bin\Debug\Aircompany.exe
+D:\Myrki\EpamLabs\Epam_Lab4_CleanCode\Net\AircompanyTests\bin\Debug\nunit.framework.dll
+D:\Myrki\EpamLabs\Epam_Lab4_CleanCode\Net\AircompanyTests\bin\Debug\Aircompany.pdb
+D:\Myrki\EpamLabs\Epam_Lab4_CleanCode\Net\AircompanyTests\bin\Debug\Aircompany.exe.config
+D:\Myrki\EpamLabs\Epam_Lab4_CleanCode\Net\AircompanyTests\bin\Debug\nunit.framework.pdb
+D:\Myrki\EpamLabs\Epam_Lab4_CleanCode\Net\AircompanyTests\bin\Debug\nunit.framework.xml
+D:\Myrki\EpamLabs\Epam_Lab4_CleanCode\Net\AircompanyTests\obj\Debug\AircompanyTests.csproj.CopyComplete
+D:\Myrki\EpamLabs\Epam_Lab4_CleanCode\Net\AircompanyTests\obj\Debug\AircompanyTests.dll
+D:\Myrki\EpamLabs\Epam_Lab4_CleanCode\Net\AircompanyTests\obj\Debug\AircompanyTests.pdb
