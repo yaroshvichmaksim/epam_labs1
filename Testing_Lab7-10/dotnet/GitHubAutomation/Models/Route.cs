@@ -26,7 +26,7 @@ namespace Framework.Models
         }
         string GetRoute(string key)
         {
-            return TestDataReader.GetData(key);
+            return TestDataReader.GetData(key).Value;
         }
     }
 }
